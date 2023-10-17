@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 <h3 align="center">A passionate Ruby on Rails Developer from Poland 🇵🇱</h3>
 
-- 🔭 I’m currently working in [Ticketinghub](www.ticketinghub.com) [alt](https://avatars.githubusercontent.com/u/4947020?s=200&v=4)
+- 🔭 I’m currently working in [Ticketinghub](www.ticketinghub.com) <img align="center" src="https://avatars.githubusercontent.com/u/4947020?s=200&v=4" alt="ticketinghub" height="30" width="40" />
 
 - 🌱 I’m currently learning **Domain Driven Development techniques in Ruby on Rails Applications**
 
