@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 <h3 align="center">A passionate Ruby on Rails Developer from Poland 🇵🇱</h3>
 
-<p align="left"> <a href="https://twitter.com/krysiak_pawel" target="blank"><img src="https://img.shields.io/twitter/follow/krysiak_pawel?logo=twitter&style=for-the-badge" alt="krysiak_pawel" /></a> </p>
-
 - 🔭 I’m currently working in [Ticketinghub](www.ticketinghub.com)
 
 - 🌱 I’m currently learning **Domain Driven Development techniques in Ruby on Rails Applications**
