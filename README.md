@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Domain Driven Development techniques in Ruby on Rails Applications**
 
-- 📫 How to reach me **pawelkrysiak90@gmail.com**
+- 📫 How to reach me: **pawelkrysiak90@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pawe%C5%82-krysiak-12a57276/](https://www.linkedin.com/in/pawe%C5%82-krysiak-12a57276/)
 
-- ⚡ Fun fact **I'm a 2016 World Vice Champion of African Dances 🕺**
+- ⚡ Fun fact **I'm a 2016 World Vice-Champion of African Dances 🕺**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
