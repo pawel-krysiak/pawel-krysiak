@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **pawelkrysiak90@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-krysiak-12a57276/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-krysiak-12a57276/)
 
 - ⚡ Fun fact **I'm a 2016 World Vice-Champion of African Dances 🕺**
 
